@@ -1,0 +1,13 @@
+// src/App.js
+import React from 'react';
+import Reg from './first';
+
+const App = () => {
+  return (
+    <div>
+      <Reg />
+    </div>
+  );
+};
+
+export default App;
